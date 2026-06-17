@@ -167,6 +167,7 @@ Possible next steps for this project:
 ---
 
 # Author
+Zaxro Madrimova
 
 Created as part of a Data Science / Machine Learning learning journey focused on:
 - Python
